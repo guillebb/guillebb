@@ -1,5 +1,5 @@
 ### Hi I´m Guille 👋
-
+<img src="/docs/rosa.jpg" alt="My cool logo"/>
 <!--
 **guillebb/guillebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
